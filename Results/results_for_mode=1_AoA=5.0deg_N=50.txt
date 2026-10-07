@@ -1,0 +1,24 @@
+  3D Wing Analysis
+----------------------
+
+--- Flight Conditions ---
+  Altitude:            1000.0000 m
+  Freestream velocity: 45.0000 m/s
+  Air density:         1.1116 kg/m^3
+
+--- Wing Geometry ---
+  Wing area:           14.8600 m^2
+  Taper ratio:         0.9500
+  Aspect ratio:        5.6300
+  Tip twist:           -3.0000 deg
+  Span:                9.1467 m
+  Root chord:          1.6663 m
+  Tip chord:           1.5830 m
+
+--- Flight Mode ---
+  Mode:                1
+
+--- Results ---
+  AoA(deg)   N          CL         CD        
+  --------   --         --         --        
+  5.0        50         0.4912     0.0290    
